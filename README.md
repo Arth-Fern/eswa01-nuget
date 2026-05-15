@@ -1,0 +1,1 @@
+Biblioteca de classes para cálculo de médias de uma instituição de ensino, tendo classes para cálculo de médias, com base na fórmula da instituição de ensino, e definição de status, se o aluno foi ou não aprovado.
